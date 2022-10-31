@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 サーバサイドはDocker対応しています。
-このリポジトリをクローン後、ルーチディレクトリに移動し
+このリポジトリをクローン後、ルートディレクトリに移動し
 ```bash
 docker-compose up --build
 ```
