@@ -9,7 +9,7 @@ export interface ISnipcartProduct {
     url: string
     description: string
     image: string // Hack to pass the image URL instead of the StaticImage object we required
-}git config --global user.email "you@example.com"
+}
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
     const {productId} = req.query;
